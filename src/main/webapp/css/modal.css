@@ -1,0 +1,64 @@
+.modal {
+   display: none;
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   background: rgba(0,0,0,0.5);
+   z-index: 9999;
+   justify-content: center;
+   align-items: center;
+}
+
+.modal-content {
+   background: #fff;
+   padding: 20px;
+   border-radius: 10px;
+   width: 250px;
+   position: absolute;
+   top: 50%;
+   margin: 0 auto;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+        
+table.md-table {
+   width: 100%;
+   height: 70px;
+   margin: 0 auto;
+   border: none;
+   box-shadow: none;
+}
+    
+td.md-title {
+   text-align: center;
+   border: none;
+}
+    
+tr.md-tr, td.md-td{
+   border: none;
+   background-color: white;
+   height: 30px;
+   padding: 0;
+   text-align: center;
+}
+    
+button.md-button {
+   padding: 4px 0;
+   background-color: rgb(6 10 70);
+   color: white;
+   width: 58px;
+   background-color: none;
+   display: inline-block;
+   text-align: center;
+   white-space: nowrap;
+   vertical-align: middle;
+   user-select: none;
+   border: 1px solid transparent;
+   padding: 5px 0;
+   font-size: 1em;
+   border-radius: .25rem;
+   transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+   cursor: pointer;
+}   

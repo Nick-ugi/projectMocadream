@@ -1,0 +1,103 @@
+p {
+    text-align: right;
+    margin-right: 20px;
+}
+
+textarea {
+	resize: none;
+	height: 300px;
+	display: block;
+}
+
+
+#inputformArea {
+    margin: 0 auto;
+    width: 900px;
+	padding-top: 30px; 
+}
+
+h1 {
+    text-align: left;
+    padding-left: 20%;
+    margin-bottom: 20px;
+}
+
+form table {
+    margin: auto;
+    width: 80%;
+}
+
+form table tr td label {
+    display: inline-block;
+    width: 150px;
+    font-weight: bold;
+}
+
+form table tr td input[type="text"],
+form table tr td input[type="file"],
+form table tr td textarea {
+    width: 95%;
+    padding: 8px;
+    border: 1px solid #868e96;
+    border-radius: 5px;
+    margin: 1.5px 0;
+}
+
+form table tr td input[type="submit"],
+form table tr td input[type="button"],
+form table tr td input[type="reset"] {
+    color: #343a40;
+	background-color: #dee2e6;
+	border: none;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+ 	border-radius: 5px;
+}
+
+form table tr td input[type="submit"]:hover,
+form table tr td input[type="button"]:hover,
+form table tr td input[type="reset"]:hover {
+    opacity: 0.8;
+}
+
+section {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.r_title {
+	color: #343a40;
+	background-color: #dee2e6;
+	border: 3px solid white;
+	width: 180px;
+	vertical-align: middle;
+}
+
+.r_title.r_title_top {
+	border-radius: 20px 0 0 0;
+}
+
+.r_title.r_title_bottom {
+	border-radius: 0 0 0 20px;
+}
+
+input, textarea {
+	outline: none;
+}
+
+td {
+	padding:0;
+}
+
+form table tr td textarea {
+	margin-left: 5px;
+}
+h1.h1-title {
+	font-size:25px;
+	padding: 8px 0 15px 0;
+}
