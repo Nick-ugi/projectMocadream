@@ -13,7 +13,7 @@
 * 사용 언어 및 개발 환경
 <br>
 
-![사용언어 및 개발환경](https://github.com/Nick-ugi/projectBichena/assets/168390629/1e32eb42-fb04-4314-879b-a719e4aab55a)
+![KakaoTalk_20240704_164658044](https://github.com/Nick-ugi/projectMocadream/assets/168390629/8de66534-9698-4563-abba-446b08f8ad8e)
 
 <br><br><br>
 ## :last_quarter_moon_with_face: 주요기능
