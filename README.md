@@ -17,26 +17,27 @@
 
 <br><br><br>
 ## :last_quarter_moon_with_face: 가술시연
-#### “메인페이지”
+### “메인페이지”
 - 메인페이지에서는 다양한 방을 보여주기 위하여 슬라이드를 사용하였습니다
   
 ![메인페이지 (3)](https://github.com/Nick-ugi/projectMocadream/assets/168390629/a9a57220-76f0-484e-8fbe-1895ef55991f)
 <br><br>
-#### “이용안내, 오시는 길”
+### “이용안내, 오시는 길”
  - 이용안내에서는 css요소를 이용하여 간단한 설명을 작성해놨습니다.
- - 오시는길에서는 카카오 API를 이용하여 약도를 구현하였습니다.
 
 ![이용안내](https://github.com/Nick-ugi/projectMocadream/assets/168390629/ac60aaff-e596-46d2-8c5a-12289605cad2)
+ - 오시는길에서는 카카오 API를 이용하여 약도를 구현하였습니다.
+   
 ![오시는길](https://github.com/Nick-ugi/projectMocadream/assets/168390629/a80e645c-9997-4f56-a4bf-a7e6d36d7b15)
-#### “방 정보”
+### “방 정보”
  - 관리자 페이지에서 추가한 방들은, grid 형식으로 출력되도록 구현하였습니다.
    
 ![방정보](https://github.com/Nick-ugi/projectMocadream/assets/168390629/bce38aef-dbc9-4901-bd18-43ca191bfb90)
-#### “관리자 메인페이지”
+### “관리자 메인페이지”
 - 관리자로 로그인 후 들어갈 수 있는 관리자 페이지 입니다.
   
 ![관리자 메인페이지](https://github.com/Nick-ugi/projectMocadream/assets/168390629/bf0e7648-c5a9-4c7f-9c0d-e4f38625ab55)
-#### “관리자 방 관리”
+### “관리자 방 관리”
 - 방 관리에서, 방 추가와 수정이 가능합니다. 들록정 정보는 데이터베이스에 저장이 됩니다.
   
 ![관리자 방 추가](https://github.com/Nick-ugi/projectMocadream/assets/168390629/da3ab7c9-ae6b-4681-8538-3ab2d0af6de8)
